@@ -1,6 +1,6 @@
 const quizData = [
   {
-    question: "Which language is frontend ?",
+    question: "which language is best for front end web development ?",
     a: "Java",
     b: "C",
     c: "Python",
